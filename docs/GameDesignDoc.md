@@ -12,17 +12,17 @@ Game Design Document - Beware of Dragons
   - [Concept](#concept)
   - [Genre](#genre)
   - [Target Audience](#target-audience)
+- [World Building](#world-building)
+  - [Lore and Storyline](#lore-and-storyline)
+  - [Factions](#factions)
+  - [NPCs and Creatures](#npcs-and-creatures)
+  - [Locations and Environments](#locations-and-environments)
 - [Game Mechanics](#game-mechanics)
   - [Character Classes](#character-classes)
   - [Combat System](#combat-system)
   - [Leveling and Progression](#leveling-and-progression)
   - [Player Interaction](#player-interaction)
   - [Quests and Challenges](#quests-and-challenges)
-- [World Building](#world-building)
-  - [Lore and Storyline](#lore-and-storyline)
-  - [Factions](#factions)
-  - [NPCs and Creatures](#npcs-and-creatures)
-  - [Locations and Environments](#locations-and-environments)
 - [Technical Specifications](#technical-specifications)
   - [Platforms](#platforms)
   - [Programming Languages and Tools](#programming-languages-and-tools)
@@ -77,6 +77,26 @@ The purpose of this Game Design Document (GDD) is to serve as a comprehensive bl
 - **Open Source Contributors:** We invite you to be part of our growing community. Contribute your skills and knowledge to bring "Beware of Dragons" to life and shape the future of this project.
 
 In "Beware of Dragons," we aim to inspire, educate, and entertain. Whether you're looking to master game development, explore distributed systems, or embark on an unforgettable adventure, this project has something for you. Join us as we journey through the realms of imagination and technology, bound only by the limits of our creativity.
+
+# World Building
+
+## Lore and Backstory
+The world of "Beware of Dragons" is a realm where the echoes of darkness and light collide. Ages ago, the world was forged by powerful beings known as the Celestial Architects. They shaped the land, seeded it with magic, and created the races that would inhabit it. The Celestial Architects then departed, leaving behind relics of immense power, coveted by many.
+
+## Geography and Environments
+The game world, known as Echovale, is a diverse landscape with tranquil valleys, ancient forests, imposing mountain ranges, and hidden caves. The central location is the Phenixian Citadel, home to the Phenixian Order, perched atop a mountain. The Eclipsian Brotherhood, a treacherous faction, operates from the darkened forests of the Eclipsian Enclave. Beyond them, the Dragon Vanguard guards the sacred lairs of the mighty dragons, deep in the Dragon Spine Mountains.
+
+## Societies and Cultures
+Echovale is inhabited by three main factions: the Phenixian Order, the Eclipsian Brotherhood, and the Dragon Vanguard. Each has its own unique culture, values, and traditions. The Phenixian Order values purity, discipline, and the protection of the ancient relics. The Eclipsian Brotherhood seeks to awaken the long-forgotten King using the power of shadows. The Dragon Vanguard consists of individuals who have forged bonds with dragons and seek to protect them from external threats.
+
+## Political Landscape
+Echovale doesn't have a unified political structure; instead, each faction operates independently. Tensions and conflicts are rife among them. The Phenixian Order maintains a delicate balance between purity and shadows. The Eclipsian Brotherhood is secretive, with spies infiltrating the Order. The Dragon Vanguard remains an enigmatic force, protecting dragons from both the Order and Brotherhood.
+
+## Religion and Beliefs
+Religion plays a minor role in Echovale. The Phenixian Order reveres the Celestial Architects as divine beings. The Eclipsian Covenant has no central religious figure. The Dragon Vanguard views their connection to dragons as a spiritual bond.
+
+## Magic
+Magic is prevalent throughout Echovale. The Order practices Aurawelding, a discipline of light and purity, while the Covenant delves into Shadowweaving, the arcane magic of shadows.
 
 # Game Overview
 
