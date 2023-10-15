@@ -135,17 +135,23 @@ As players progress through the game, they have the opportunity to refine and di
 
 - **Advanced Builds:** At higher levels, characters can explore advanced builds that blend skills from different classes, resulting in unique and versatile character archetypes. For example, an Order Knight might combine their tanking abilities with some healing spells to create a specialized hybrid build.
 
-### Currency
+### Currency System
 
-The economic system in Beware of Dragons revolves around four primary currency types:
+#### Astral Essence
+- **Source**: Obtained by defeating monsters and enemies in the world.
+- **Use as Currency**: Players can spend Astral Essence to buy various in-game items, weapons, and elixirs. This common resource serves as a universal currency in Echovale.
+- **Use in Skill Tree**: Astral Essence can be allocated in the player's skill tree to unlock and enhance various abilities and skills. It's a versatile resource that empowers the character's progression.
 
-- **Astral Essence:** A rare and valuable currency used for character advancement, high-end trading, and crafting.
+#### Dragon Shards
+- **Source**: Acquired by defeating mid to high-level enemies, especially those with ties to dragons.
+- **Use for Equipment Enhancement**: Dragon Shards can be used to enhance and upgrade equipment, such as weapons, armor, and accessories. This resource is crucial for improving the player's combat capabilities and survivability.
 
-- **Dragon Shards:** Collectible items that can be exchanged for powerful gear and abilities, encouraging players to seek and collect them.
+#### Ephemeral Soulshards
+- **Source**: Rarely found, Ephemeral Soulshards are challenging to obtain and often require defeating powerful foes.
+- **Use for Elixir Enhancement**: Ephemeral Soulshards are used to improve the elixirs' effects and expand the player's elixir capacity. They offer a unique advantage in battles by enhancing temporary status boosts.
+- **Increase Elixir Capacity**: As players collect more Ephemeral Soulshards, they can gradually increase the maximum number of elixirs they can carry at a time, allowing for better strategic planning and adaptability during challenging encounters.
 
-- **Ephemeral Soul Shards:** A more common currency used for basic transactions and minor purchases.
-
-- **Eldritch Tokens:** Mysterious tokens acquired from eldritch sources, with hidden uses scattered throughout the game world.
+This currency system balances the in-game economy, rewards players for defeating tougher foes, and promotes thoughtful resource management. It also reinforces the interconnectedness of currency, character progression, and equipment enhancement, enriching the overall gaming experience.
 
 ### Combat System
 
