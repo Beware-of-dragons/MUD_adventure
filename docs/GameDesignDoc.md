@@ -77,3 +77,21 @@ The purpose of this Game Design Document (GDD) is to serve as a comprehensive bl
 - **Open Source Contributors:** We invite you to be part of our growing community. Contribute your skills and knowledge to bring "Beware of Dragons" to life and shape the future of this project.
 
 In "Beware of Dragons," we aim to inspire, educate, and entertain. Whether you're looking to master game development, explore distributed systems, or embark on an unforgettable adventure, this project has something for you. Join us as we journey through the realms of imagination and technology, bound only by the limits of our creativity.
+
+# Game Overview
+
+## Concept
+Beware of Dragons is a high-fantasy Multi-User Dungeon (MUD) text adventure game that transports players into the mesmerizing realm of Echovale. As a captivating fusion of rich storytelling and technical innovation, this open-source project offers players an immersive journey through a world teeming with mythical creatures, epic quests, and ever-evolving challenges. In this multi-faceted experience, players will find themselves immersed in a captivating narrative, challenged by dynamic combat, and driven by their choices within a complex web of factions, alliances, and rivalries.
+
+## Genre
+Beware of Dragons seamlessly blends elements of classic MUDs with the complexity and engagement of modern role-playing games. The game's genre is a melding of high-fantasy, action, and adventure, designed to captivate a diverse audience, from seasoned role-players to those new to the genre. 
+
+## Game Mechanics
+At the core of Beware of Dragons are the game mechanics that define its unique gameplay experience. Players will have the opportunity to explore character classes tailored to different factions, engaging in combat that requires strategic thinking, and progressing through leveling systems that reward dedication. With opportunities for interaction and quests that challenge every skill set, the mechanics of the game offer a dynamic and ever-evolving world to explore.
+
+## Target Audience
+The game is designed to cater to a broad audience. Whether you're a seasoned MUD player looking for a fresh and engaging experience or a newcomer eager to explore the world of text-based games, Beware of Dragons offers a diverse experience for players of all backgrounds.
+
+Intrigued adventurers, creative storytellers, and those interested in understanding the technical underpinnings of MUDs will find something to explore within the game. As an open-source project, this game is not only for those who play it but also for those who wish to understand how games are built from the ground up.
+
+In the following sections, we will delve deeper into the mechanics, the technical aspects, the world-building, and the overall vision for Beware of Dragons.
