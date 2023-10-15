@@ -30,5 +30,3 @@ By participating in the development of the 'Beware of Dragons' game server, you'
 Embark on a journey into the heart of 'Beware of Dragons.' The game server is a pivotal element in our mission to create an immersive multiplayer text adventure game and share the knowledge needed to make it happen.
 
 **Start your adventure by exploring the code, contributing to the community, and helping shape the future of 'Beware of Dragons.' Together, we can turn the world of fantasy into reality.**
-
-[![GitHub](https://img.shields.io/badge/Visit-GitHub-blue)](https://github.com/your-server-repo)
